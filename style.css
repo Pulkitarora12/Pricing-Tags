@@ -21,10 +21,6 @@
     background-color: grey;
 }
 
-.pricing-plan:hover ~ .pricing-plan {
-    opacity: 0.5;
-}
-
 .plan-button {
     padding: 10px;
     background-color: #ff6600;
