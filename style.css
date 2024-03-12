@@ -19,6 +19,7 @@
 .pricing-plan:hover{
     transform: scale(1.2,1.2);
     background-color: grey;
+    padding:5px
 }
 
 .plan-button {
